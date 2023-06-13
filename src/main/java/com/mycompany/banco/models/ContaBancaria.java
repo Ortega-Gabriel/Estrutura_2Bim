@@ -10,7 +10,6 @@ public class ContaBancaria {
     
     //Construtores
     public ContaBancaria(){
-        
     }
     public ContaBancaria(int numConta, String nmTitular,  double vlSaldo,
             double vlDepositado, double vlSacado){
